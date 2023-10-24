@@ -1,0 +1,43 @@
+<h2>Rolex Collection</h2>
+
+<div id="container">
+  <div *ngFor="let card of cardsRolex">
+    <div id="box">
+      <img src="{{card.src}}">
+      <br>
+      <h3>{{card.name}}</h3>
+      <h3 class="price">{{card.precio}}</h3>
+      <a href="{{card.url}}" target="_blank">Buy</a>
+    </div>
+  </div>
+</div>
+
+<h2>Omega Collection</h2>
+
+<div id="container">
+  <div *ngFor="let card of cardsOmega">
+    <div id="box">
+      <img src="{{card.src}}">
+      <br>
+      <h3>{{card.name}}</h3>
+      <h3 class="price">{{card.precio}}</h3>
+      <a href="{{card.url}}" target="_blank">Buy</a>
+    </div>
+  </div>
+</div>
+
+<h2>Patek Philippe Collection</h2>
+
+<div id="container">
+  <div *ngFor="let card of cardsPatek">
+    <div id="box">
+      <img src="{{card.src}}">
+      <br>
+      <h3>{{card.name}}</h3>
+      <h3 class="price">{{card.precio}}</h3>
+      <a href="{{card.url}}" target="_blank">Buy</a>
+    </div>
+  </div>
+</div>
+
+

@@ -1,0 +1,61 @@
+{
+  "Rolex": {
+    "models": [
+      {
+        "name": "Datejust",
+        "characteristics": {
+          "case": "Oyster, 36 mm, acero Oystersteel y oro amarillo",
+          "bracelet": "Oyster, eslabones planos de tres piezas",
+          "dial": "Champán",
+          "precision": "Rendimiento cronométrico superlativo",
+          "water_resistance": "Hermético hasta 100 metros/330 pies"
+        },
+        "image_url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBISEhgRERIRERESERIPERESEhEREREPGBQZHBgUGBgcIS8lHB4sHxgYJjsmKy8xNTU1GiQ7QDszPy40NTEBDAwMEA8QHBISHjQsJCE0NDQxMTQ0NDQ0NDQ0NDQ0NDQ0NDQxNjQ0NDQ0NDQ0NDE0NDQ0NDE0NDQ0NDQ0NDQ0NP/AABEIAMIBBAMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAAAQIDBAUGB//EAD8QAAICAQMCAwUECAUCBwAAAAECABEDBBIhBTETQVEiMmFxgQYUkaEjQlJTscHR8BVigpLhM6IWQ1Ryg7Lx/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAmEQEBAAICAQMDBQEAAAAAAAAAAQIRITESA0FRYZGhEzJxseEi/9oADAMBAAIRAxEAPwDr0xS5UkfDMNjTzad9rgkkFmPsaPY0ukZAWPbMcI0ltaQX1HUoCvHTwL6jqUU8dPAuqPbKPahbwL9sNsoto9zQq6oVKtzRb2gX1FUp3t6Rh2hFtQqV7mhuaBOoVK9zQtoE9sVSPtQO6NBlYtsXtRHdLoMrEVi9qHMaCKSBSTIMW0xoVHHIskuKmRKmTxNsbZCX7TCTxXa647kFMkJtDhGISBiSEjGIEoXFCQSuO5CO4E7juRCkx+GZQ7juR2mY2rTIwrHQ9bNGTSsvdC5rDpc6/sn/AFXNfkzZBftm7qgPOS8Lp0diLcJzDavIO70fnLsLu7BEfex8u0mzxdCGEnNUNFn8xX1mZpt4G16sehvib5SxkSMIXCCKEDCHcVxRSgJiMIQFCEIBIyUjAKhCEIguOS8OX1CRpTsj2S6OoFOyPw5dUdRoUbDDYZfHUmjajZAJL4j5SyG1qrxHUJHLkVFLMaABYn0AltZJ3A7kD6zS5Do8h3vqCrHuLYAfDtNFquo+JkbJ7RF9qNBPSb4a7T/uE/2rOcy27TDSPh6ICxqmJHIG5uSPLtNc/WdOQR90Wz3b27J/CbN9XjqsempiDtcbFCGuG9fwmnTrWoPZ9R68+Ko/7pvcn+JZVw6xpP8A0Kf9/wDSW6fqWmdgi6ZdPusHMCwKCu91Mb/FdV+8zf72P84abrOZsipk8d1bcSjh9jhVLFSx9kXXn5yeUvz+E8bGzbBpT31zH/5GMt0C6fG9JqPEZxVFie3nzKPv+n7HTBT6EIa+Extf1HAEIXCqsSqhgosWRzxJeOW9WunAB7UYbJzPReqKuQISQMns83QbynUzWN3NuWWNxqGyU5EmTIuJWWLRi2mZFRVJppj0YUZeRFUaFG0xUZkVAiNIxiDCjMmoql0MfmKZG2ECVRwhUAjiEcAhCOQEIREwoLSO7mJmkAeYnYyLktPhXI21wCg7g9j6AiY7vQkT1FcC+rE0eaF+Qlmt8mt9Nh1PT6dMLeIuNUIrsFJ+Arm/lOJ1f3cmsWHaCaDs7k/7b4kftDqDmW8zOMgb9Gqc89wUHkBXJ/nOV6t1pEOzIfEej+gxsVx0f3h/WPbj8hJlLn1xGsb4dt5k6hjXgW7Ae7jXf9L90H5kTHzdUcdseNK7HLmVDXnwoP8AGclm1+fIvvDCldhSKo9AB/MzGxadHPD5Mp5BGLGz/wD1Blx9GfG2cvWdgvWHPb7qeeAM57enu/nMnH1J+N+Fqs84nTKAPXyP4Cca2gUVu0+sFXycWavzWQwJjDVjzvjfvsyDab9OKI/CW+jPhmeu7vDqseT3SGbucZBVxzXKmiPnNrpzpACcmPw2AsMXY493ld9uZ53l6jnx7Rnx+LjH/mKw3J8Q/FfWpudLqsepVG8Q5cKOjMvHiLXA3j9dRwfXjzmP0rjeHSepuO9w6TAxvYtjmqozcsADwbUgMp/ymc3pc6VYP6Iezjce0xe+SPVbuxN3pchZNre9jPl2Kt2I+F/xmsdWJkyLkWkbgx4hlIRRKZKAoo4oBFHCApEycUCMIQgSjkBJQpwiiuBKOQuFyCdyDGJmlRaBImIHmRuK4gjqctAkdx2+flOZbqiFSSGL2MbadxT7zZv5cEk+n0E3uoYE1Y455/r5Tjupa8U2oJFNeLTkHthB5yX6seR8NvpGOPl211Gn691VkbwkO7MQFy5RQ2KB7iegHr8fUknRYMIUGjuejTH1mNq9YC5HAJs/T0+chh1ZBtiSvn5nH8QP2fhOsjhlbXZ9KGjfbmzY1ZGQgAjd4WoUUyhTx3oi/WZr/aRcaeGikqAV9qgrAhh7oojhj5+k5bTtQIDGnIcgH2GNUGH49/jI5sgUgnkX7Q/y+f8AObmVk053t0h+1TKwY4wtHg7G49o1RZrHIP4VzMzH1fR502Z8W9QGoPtyWTyLZhuHn2N8/CcF94sv8CE5ApmN21fRvlumy6asszpZpvNRiTEEwogDEeK9ljsxEUmPk9z7xvy2zUavQPiYajTewws7BVMPOh6fDt3m0LAbsjkszMXYsbZ2+J9JgnO+R/YBZj2Ciz+HpMa+V8tXhuug9XDrvUAFeMmP3hjc1+kQeY+H/E63pWpAcAFnTlcmVuEO7yW+4ujx/OeZ6bUeDm8RCnvbcgDK6lq5W14IPb/mdn0d0ZvDY2m05cCkmjbEupHYkE39T6Tllj7x6cbuadn249ODExlGnyWOTyO8taSJQrS0GYwMuQyicIoQhxQuEBGEcIChC4QIiEUdwohFHcAijuImQQcysmNpGQMRPCQzGgfl/KIrTdZ1BGJgrANkZcSECyC7Vf0XcfpOE+1WrUVjWtq+wo9ETivxnX9cyUcIv9d3NDghUI5PzcTzPqGQ5Gsm/ZX6E2xnTDpPUumNj6rqEAVcnsr2Xw8JAHpZW5XqtbkyEHI4YrYFIicHuKQAH6yt0MpInSSOG2ZpNds969nnXJxn1HqPh/Z3rqhx2dr2NysGYAivKu/b85ygNczL0eubGNlt4ZINA8o/7Q9f785LCNxg02ItYCckV+kcgUxDDtZ8pudNhCDcaC80LP4X8OOflNJ05yoOR3rGncgj2rFhQfPj8AfWgdf1XrWTOdqWmPt6MyjsD6D4fiT3kku1slnTb6zqiO+zd28h248vh8vhIjqihCjBm8vDT9Gj+d5XHtMPLaKHEwOj9OV/bI3KvO0GizcALfxJ/AGWa13DBceLDRRLGxCVfaNy8m/eub8NzbMurwa6x3cbioWgqIiqiIByAoHb/mdT0jqG1A+7nA4yNQsjGeHFf+2/qZzoCbUXKi48pZw1LsZPd2NtHkbP0m16Io3NjNWwyIw+l/yqTLHxdMMt2vUNM/tVfftxMx5z/SdVenxZHYg+CjOzLbWEG5jXfnnibTSa7HkH6N/ErudmTHXpw04R2s919yxGlUmhhlfcLiBhcqHcLkZKA5G4ExEwpXCRuEglC4rhKHcDFCQEi5jlbmBEmK4rhcyqQMq1HY/L+UsEqzD+/pLBzfXb34yObTOn+Wyq/nQNfIzhseLJbOhVXG0XsRxWwcUwInb9Y1KMUIYO2PMFcLdIGBQ2e3vFZo8GHZkKHaoZtiliEXhiLJPAHtDmbnUZ9Tfs0GpXUOpV2RlNXWDCjUDfDKoI+k1/+HMfIzrNfrcSKDjCupbb94fcmBjfK4Frfmb4qNvxMT58Y5rb8CKYfAjyM3K4Xy7rlk6O58pPN0oYxb7QnO9ibIFcKi/rMeQOaHc8Ta6vqoHCD4TR6nM7m2vtQBvgedf35CXZKxGz+IxVlO1n4o2ymztJHZiBQv0A7VI5tOU+Q85Zjba1zYMBkSvOXotbX7A4A7sXaseN0yv8FplJ+Vss7Hqq6JciW+nCK3isNo8RnFFb47X7XzAnn/RNc2kyFwDTIyOO25COwPr5/QSzE2bVs+TIyLhT2Wzvp/FRHY2gylOUQ+17VEA9+83jlqaO2z63oE1mYnEwRFQsHr9GSGsgnyO3n6RdETdlLjtuyC/UbDMXLp8uHHsdcarkUNvxhPDyoOxR14ZfkZsuioUwPkr2vDbaPV3NIP4D6zGWXlY3hLuuh6R1DGdKuPxCrrhO5WUggFSbDEVVH40Jsvs8mNd3htiZT7/htjf2qFXsJHrNL0Gsjfdl1hy4ExnG+kyYDjy4kC7QFfgkDgWROm6b0/Fp12YVKqSWNszEn5nmcbOa73LjTPklMhcamZZXqY5Wpk7mg45G4EwGTImRJhcgcJG44DjuRjuA7hcVwgIyDyZlLmRUYXFAzIlcryGSleY9prFK13UNIMiMhO1HB4HFv3B4+NGc51HSPmxjMB+lFpl5BIyp7LgfC/X4GdRq8oTaTW0sEvyVj7pP14+omEzpjyMx2nFlpM1LezJyBlPwPCn6RjdXV92rNx5p1LqGXfwHORhtbLbHKR22B2/6aj9lQPnMFdRVoK2r3ZSaLHkgX3+fmbnZfazoTAs+MEcDfVef66+o/v1nDnGV9mvhO0cMvhJshu7lo1TVzz9Ws/nMbIRe0V7PDN6v5j6SaIWIUCybofIWfyEvDHMSGqYXx533b+saatr9O18k38eZjuhADeRJAPqRV/xH4yBMuou63SZVccibroWqxkKiBvHWyManHpuoIze/92y+5qUJv9E/PkLnLhxtV14VhRHfa495f4H5ETLw4xlpWQOLFCr5+EmzVl03usXexxJQVm3P4ePLpkd65d9Mx24sgBZW28Ezfpo72YKIHGpzFavGovwgAfMuAef2TMTQaVMCHNm5C80LZnyHtjX1JPH98XdN1OQ5Hy3jcu+3VIC2PLgYOQigHllAIA45N0OZi3U274R0nSsORQTkyeK3ZcjIqPs9DXebFZUgrj04k185n2L2lckplVxq0wrIUyW6VAx3LsWbot0hccbEriuK4XAdwkbhKiclIRiBKEdR1AgZS45mUBIssmlY6oYyksIiMmhUVlObuJlTE1J5+suKVh6/AMmN8Z/XUi/RvI/jU0HStcuUfds3suCe1KMxB5Vv838anSM39+k86+2GQafUHyGQDIt337NX1F/WW4+XCzLTssj+AoTLbaYUmPKNz5MBI9x/2k497y8/Wcz1/oSk+Jjpf1rUjw2PkVPkT6Sf2Z+2Pit4OcWwUsmReQwHcOPX4ibp9DQvSOqIVJOE+3pnf+KeY9njnsZJ6lx/5y+63GZTceY5NC6GiD68/wBfOGnO1rPBCZKvjnYQP4zttVg2342HJi2gMXxj7xpzfyFjn4LNf/h+FyQmbDuHJByHG3lxsvvXwnXy3OHLw1XKYecbqeKZcqXxZHssPqGB/wBErGNj2BnY4ui42HOTGpC8FspQUL9QJdptNpEP/UxsdwG3Gr533HyBFm/pEtLg0XRvs/nzA7VIxkqzMQdoI4sDuTye31ndp0LT6LHvdiePe2nxMh/YRBzz8P8A8noc2YcYMHhgsVObVe8KHvpiHf05K/IyzIceAHUanK2TIqNvyve4JdkIi8KK9B5ckzN9ST610xwrGbpz5rfOTh2BjgRMgH3dRVO3kX4N+QHA8ycDpGpGr1i7Ajpp0GTPqFxhDqMimsYPntDG/jsJ9Jzf2k+1baq8aexpweBVPkA/bPp8J132C0gx6QZKp87HL/oFqg/C2/1SSW85LbJ06tDLAeDKUl6ecXplGK5bUNs56VFTLBJKkeyURELj2xVALhFFKh3CK4Si8CSEQhAlcciI40HEYXCUQMiZZUiRJYITE1Hf6zKfj+Mwc7g8yQVNOb+1vRBrMS0Qr42JVj22HhlP5H6To3aY+YAgg9iCD8RL/A810X2Xz4cgf2XVv0Z8PIEa3IA5Pbmp0Om6Rq8LWi5BzZX7zgZSfiDDU6DNjv2rS/ZI5b4cevaa99U4NHOVI4IKHg/jMb8v3OsknTe5utZNMjPqcJCLW50fGxALAD2QfUyn/wAU9MzgjIyEHba5cXFjsTYo1Qmg1vUcmPGzrlTIyjhSncEgHz9LmlP2py/sYPrjEs9OXr+0uWu3cnq/SQS16S2IZiMS2WHZvd7yzB9q9Iz+Hp92RyC21E2hiBzyas0JwJ+1Lnvi0x+eJf6TK6X1s5MmzwtMlqxLjGoIr4gR+l87+6TPnh22q6lqXUjHiy478xj3sPkSa/Kc11PS6kq4b7y75EdAMmP3yVIq744uZq67KO2TEB5C3H8pbg1Woc8MrkcrsLbg3ryPQn8ZJrHpuzfbktD9ldXkyKj4nxoWAZ2oBU8z+E9f02NcaLjQUqKEUeQUChNR0nHlsvlJFcKpN/Mzbq06TK5TlxuMxvDLSX4zMbG0vQ8fOMuhaJMCRUSYmRIGO5EGOUOBEVwuNAKyDLJkxRoVbY5OEaFsBIXCUTjiiuEThIwuBKIiFwhVGY0CfhU5vTa7dvU90cr9J0GuekM4J8xx53/Zfn6zNulk26Y5ZWzzVJqx6yX3j4yeS+LJzMOx5nJ5kfcbocnunxm9yZR6zWanIS5/DtM+X1axjV5WbGC6lS6CwNlXXlMT/H83njX+/pNu5Fe7Z+XeYZyt+6/IS7nvy1Zf4YR6/k88SfgP6S3TdVfK3hvjRARe7aO48uBL/FP7r8hJ4sm40ce341Lx8flOfn8J7F9E/AzddAFbqCgcdr78zVso9B+c2PT9RtSvQ1Jv6lnDfrk+MmMk1I1UPvfxl8mPFv0y0Jk6LOMlgc1/GclqOokDg89puPsw522e5Ny+W0s06RBJVBI5pChcIQC4GKFwghcVwgEIoQJwihAlcdyAMcCVyUhHcCUTHiK4mP8AGBr+qNQr4Thesr7VzsupvZnI9VF3OebeLmzqsgPDS1dbk9ZU2LkyS4zOVdFn3rIfOZOgzMSQx7+shptPcyDpq7RFZgS+5Uw8BfX85h+E3qZRkxPfcxSVsTgX9r85Hw657zWrjf1Mt2OPMwbZOTJXkJrW1zAmu1wy7uxMp8KLRf8A4k8g3U3lRxyDY4jLYafIzkXOz6K22hOP0CcidXoDVTePbOTrFbn5i5O5jo9hT9Jdc7MGTETFEYQ7hcjuhcCRMVxXFcCUJG4QJmMQhAccIQGIQhAJFu4+f8oQhWk6h7xnNa/zhCc8lxaTzkhCE5OsZ2h7zLaEJqIUpywhFFaiDQhAwNR3lBjhMqJB4QgbHReU6LSdoQm8WMnR6b/pj5iZMITqwlFCEqEYoQgEUIQCEIQP/9k="
+      },
+      {
+        "name": "Submariner",
+        "characteristics": {
+          "case": "Oyster, 41 mm, acero Oystersteel",
+          "bracelet": "Oyster, eslabones planos de tres piezas",
+          "dial": "Negro",
+          "precision": "Rendimiento cronométrico superlativo",
+          "water_resistance": "Hermético hasta 300 metros/1.000 pies"
+        },
+        "image_url": "https://www.rolex.com/watches/submariner/m124060-0001.html"
+      },
+      {
+        "name": "GMT-Master II",
+        "characteristics": {
+          "case": "Oyster, 40 mm, acero Oystersteel",
+          "bracelet": "Oyster, eslabones planos de tres piezas",
+          "dial": "Negro",
+          "precision": "Rendimiento cronométrico superlativo",
+          "water_resistance": "Hermético hasta 100 metros/330 pies"
+        },
+        "image_url": "https://www.rolex.com/watches/gmt-master-ii/m126710blro-0002.html"
+      },
+      {
+        "name": "Day-Date",
+        "characteristics": {
+          "case": "Oyster, 40 mm, oro amarillo",
+          "bracelet": "President, eslabones semicirculares de tres piezas",
+          "dial": "Champán",
+          "precision": "Rendimiento cronométrico superlativo",
+          "water_resistance": "Hermético hasta 100 metros/330 pies"
+        },
+        "image_url": "https://www.rolex.com/watches/day-date/m228238-0042.html"
+      },
+      {
+        "name": "Cosmograph Daytona",
+        "characteristics": {
+          "case": "Oyster, 40 mm, acero Oystersteel",
+          "bracelet": "Oyster, eslabones planos de tres piezas",
+          "dial": "Negro",
+          "precision": "Rendimiento cronométrico superlativo",
+          "water_resistance": "Hermético hasta 100 metros/330 pies"
+        },
+        "image_url": "https://www.rolex.com/watches/cosmograph-daytona/m116500ln-0001.html"
+      }
+    ]
+  }
+}

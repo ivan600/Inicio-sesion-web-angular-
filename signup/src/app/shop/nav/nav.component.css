@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@600&family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+header{
+  background-color: white;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid black;
+    position: fixed;
+    z-index: 1;
+
+}
+
+h1{
+  font-family: "Bebas Neue";
+  margin-top: 5px;
+}
+
+.logo{
+    margin-left: 40px;
+    font-family: 'Oswald', sans-serif;
+}
+
+#nav-container{
+    width: 100%;
+}
+
+nav{
+    float: right;
+    margin-right: 40px;
+}
+
+ul{
+    list-style: none;
+}
+
+
+
+nav a{
+    text-decoration: none;
+    margin-right: 25px;
+    color: black;
+    font-family: 'Jost', sans-serif;
+    font-size: 1.2em;
+
+}
+nav a:hover{
+    text-decoration: none;
+    color: #666;
+}
+
+#signup{
+  background-color: rgb(44, 44, 44);
+  color: white;
+  padding: 5px 7px;
+  font-size: 16px;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+  margin-right: 20px;
+  border: none;
+  font-family: "Jost", sans-serif;
+}
+#signup:hover{
+  box-shadow: 0px 0px 10px  black;
+}

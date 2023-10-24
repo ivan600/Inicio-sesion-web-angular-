@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+h2{
+  font-family: 'Bebas Neue', sans-serif;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  top: 250px;
+  color: white;
+  font-size: 400%;
+}
+
+h1{
+  font-family: 'Bebas Neue';
+  color: white;
+}
+
+#image{
+  width: 100%;
+  height: 700px;
+  background-size: cover;
+  background-repeat: repeat;
+  background-image: url('https://media.revistagq.com/photos/6299c93bc340964ceb9e1be3/16:9/w_2560%2Cc_limit/1386515920');
+}
+
+#show-collection{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 83%;
+}
+
+button{
+  border: 0px;
+  border-radius: 16px;
+  padding: 6px 14px;
+  box-shadow: 0px 0px 8px 5px white;
+  transition: all 0.5s ease;
+}
+button:hover{
+  background-color: #1a1a1a;
+  color: white;
+  box-shadow: 0px 0px 3px 5px #1a1a1a;
+}
+
+#container{
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px black;
+}
+
+#content{
+  border: 2px solid black;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(7, 62, 7);
+    padding: 30px 0px;
+}
+
+input{
+    border: 2px solid #333;
+    border-radius: 10px;
+    padding: 0px 8px;
+    height: 40px;
+    transition: all 0.5s ease;
+    background-color: #999c;
+
+}
+input:focus{
+  background-color: white;
+}
